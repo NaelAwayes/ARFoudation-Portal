@@ -19,4 +19,5 @@ __There's two ways you can install this app:__
   
 ## Thanks:
   __PiratesJustAR__ and __The Unity Workbench__ for their awesome tutorials
+  
   __Idean France__ for allowing time for me to make this PoC app.
